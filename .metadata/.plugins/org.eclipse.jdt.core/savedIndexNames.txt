@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/klaudia/Desktop/cryptoProject1/.metadata/.plugins/org.eclipse.jdt.core
+3128207647.index
+438441389.index
